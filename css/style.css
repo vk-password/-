@@ -388,8 +388,8 @@ body .body__content .content .content_table .table table tr td:nth-child(8) div 
   background-repeat: no-repeat;
 }
 
-body .body__content .content .content_table .table table tr td:nth-child(7):hover,
-body .body__content .content .content_table .table table tr td:nth-child(8):hover {
+body .body__content .content .content_table .table table tr td:nth-child(8):hover,
+body .body__content .content .content_table .table table tr td:nth-child(9):hover {
   background: #dedcf7;
   cursor: pointer;
   -webkit-transition: all 1s ease 0s;
@@ -397,20 +397,20 @@ body .body__content .content .content_table .table table tr td:nth-child(8):hove
   transition: all 1s ease 0s;
 }
 
-body .body__content .content .content_table .table table tr th:nth-child(7) div,
-body .body__content .content .content_table .table table tr td:nth-child(7) div {
+body .body__content .content .content_table .table table tr th:nth-child(8) div,
+body .body__content .content .content_table .table table tr td:nth-child(8) div {
   background-image: url(../img/replay_24.svg);
 }
 
-body .body__content .content .content_table .table table tr th:nth-child(8) div,
-body .body__content .content .content_table .table table tr td:nth-child(8) div {
+body .body__content .content .content_table .table table tr th:nth-child(9) div,
+body .body__content .content .content_table .table table tr td:nth-child(9) div {
   background-image: url(../img/delete_outline_24.svg);
 }
 
-body .body__content .content .content_table .table table tr th:nth-child(7),
 body .body__content .content .content_table .table table tr th:nth-child(8),
-body .body__content .content .content_table .table table tr td:nth-child(7),
-body .body__content .content .content_table .table table tr td:nth-child(8) {
+body .body__content .content .content_table .table table tr th:nth-child(9),
+body .body__content .content .content_table .table table tr td:nth-child(8),
+body .body__content .content .content_table .table table tr td:nth-child(9) {
   width: 42px;
   max-width: 42px;
 }
