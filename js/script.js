@@ -73,7 +73,7 @@ function new_tr() {
 		name: ``,
 		login: `+7`,
 		password: ``,
-		emsil: ``,
+		email: ``,
 		lists: ``
 	});
 	basa(json_basa);
@@ -152,7 +152,7 @@ function seen_table() {
 				<td>${tr.id}</td>
 				<td>${tr.login}</td>
 				<td>${tr.password}</td>
-				<td>${tr.email}</td>
+				<td>${tr.email ? tr.email : ''}</td>
 				<td>${tr.lists}</td>
 			</tr>`
 		);
