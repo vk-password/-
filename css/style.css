@@ -378,10 +378,10 @@ body .body__content .content .content_table .table table tr td:nth-child(5) {
   width: 13%;
 }
 
-body .body__content .content .content_table .table table tr th:nth-child(7) div,
-body .body__content .content .content_table .table table tr td:nth-child(7) div,
 body .body__content .content .content_table .table table tr th:nth-child(8) div,
-body .body__content .content .content_table .table table tr td:nth-child(8) div {
+body .body__content .content .content_table .table table tr td:nth-child(8) div,
+body .body__content .content .content_table .table table tr th:nth-child(9) div,
+body .body__content .content .content_table .table table tr td:nth-child(9) div {
   text-align: center;
   width: 22px;
   height: 22px;
